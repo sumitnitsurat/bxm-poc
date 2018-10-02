@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.m \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/sumitc/blockchaintmhub/bxm-mobile/bxm/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
